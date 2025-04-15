@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\domon\\OneDrive\\Desktop\\deskroutine\\April-15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC6C0CB-4AB4-44CD-A5D9-E87539B2C054}|April-15\\April-15.vcxproj|C:\\Users\\domon\\OneDrive\\Desktop\\deskroutine\\April-15\\April-15\\April-15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFC6C0CB-4AB4-44CD-A5D9-E87539B2C054}|April-15\\April-15.vcxproj|solutionrelative:April-15\\April-15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "April-15.cpp",
+              "DocumentMoniker": "C:\\Users\\domon\\OneDrive\\Desktop\\deskroutine\\April-15\\April-15\\April-15.cpp",
+              "RelativeDocumentMoniker": "April-15\\April-15.cpp",
+              "ToolTip": "C:\\Users\\domon\\OneDrive\\Desktop\\deskroutine\\April-15\\April-15\\April-15.cpp",
+              "RelativeToolTip": "April-15\\April-15.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T05:38:31.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
