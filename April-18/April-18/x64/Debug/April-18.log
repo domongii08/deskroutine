@@ -1,0 +1,6 @@
+﻿  April-18.cpp
+C:\Users\domon\OneDrive\Desktop\deskroutine\April-18\April-18\April-18.cpp(8,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\domon\OneDrive\Desktop\deskroutine\April-18\April-18\April-18.cpp(8,23): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\domon\OneDrive\Desktop\deskroutine\April-18\April-18\April-18.cpp(47,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\domon\OneDrive\Desktop\deskroutine\April-18\April-18\April-18.cpp(45,6): warning C4101: 'i': unreferenced local variable
+  April-18.vcxproj -> C:\Users\domon\OneDrive\Desktop\deskroutine\April-18\x64\Debug\April-18.exe

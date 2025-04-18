@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\domon\\OneDrive\\Desktop\\deskroutine\\main_deskroutine\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{442FC7AE-1938-4A4F-AA35-471D0EED3610}|main_deskroutine\\main_deskroutine.vcxproj|C:\\Users\\domon\\OneDrive\\Desktop\\deskroutine\\main_deskroutine\\main_deskroutine\\main_deskroutine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{442FC7AE-1938-4A4F-AA35-471D0EED3610}|main_deskroutine\\main_deskroutine.vcxproj|solutionrelative:main_deskroutine\\main_deskroutine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main_deskroutine.cpp",
-              "DocumentMoniker": "C:\\Users\\domon\\OneDrive\\Desktop\\deskroutine\\main_deskroutine\\main_deskroutine\\main_deskroutine.cpp",
-              "RelativeDocumentMoniker": "main_deskroutine\\main_deskroutine.cpp",
-              "ToolTip": "C:\\Users\\domon\\OneDrive\\Desktop\\deskroutine\\main_deskroutine\\main_deskroutine\\main_deskroutine.cpp",
-              "RelativeToolTip": "main_deskroutine\\main_deskroutine.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-12T12:19:15.661Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

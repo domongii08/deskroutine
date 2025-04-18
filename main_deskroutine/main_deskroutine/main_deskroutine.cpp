@@ -18,10 +18,13 @@ void printConsoleSize() {
 
 int main() {
     printConsoleSize();
+    setCursorPosition(30, 119);
+    puts(" ");
     system("pause");
     system("cls");
     setCursorPosition(50, 1); // Y 값을 1로 변경하여 한 줄 아래로 이동
     printf("Deskroutine");
+    setCursorPosition(30, 119);
+    puts(" ");
     return 0;
-}
 }
